@@ -9,3 +9,5 @@ This system focuses solely on the creation and manipulations Databses, tables, c
 This might be for you if you would like to learn how to use php in order to administer a database through php.
 
 You will lear how to create, select, connect, delete, insert databases and it's components.
+
+As well as some basic form handling using php and inserted sql data.
